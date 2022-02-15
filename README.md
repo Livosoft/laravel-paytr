@@ -1,1 +1,1 @@
-# laravel-paytr
+# LARAVEL PAYTR ENTEGRASYONU
